@@ -1,1 +1,1 @@
-Building a REST API using Spring Boot with JPA
+Building a REST API for authors and books using Spring Boot with JPA
